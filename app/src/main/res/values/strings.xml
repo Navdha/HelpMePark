@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelpMePark</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="cities">
+        <item>Middletown</item>
+        <item>Pittsburgh</item>
+    </string-array>
+</resources>
